@@ -9,32 +9,32 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 <img align="right" alt="coding" width="260" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY1ZmNhYjM1NzJmYjUwMTk0M2I5ODQ0NmJkOTQzNmQ1N2Y1OTg1MiZjdD1n/coxQHKASG60HrHtvkt/giphy.gif](https://raw.githubusercontent.com/hollali/hollali/output/github-contribution-grid-snake.svg)"/>
 
 - 🇬🇭 Based in **Ghana**
-- 💻 Software Engineer passionate about **desktop, mobile & web apps**
-- 🧾 Building a **JavaFX POS System**
-- 🌍 Creating **local-language tech solutions**
-- 🤖 Exploring **AI & scalable systems**
+- Software Engineer passionate about **desktop, mobile & web apps**
+-  Building a **JavaFX POS System**
+-  Creating **local-language tech solutions**
+-  Exploring **AI & scalable systems**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,flutter,dart,html,css,bootstrap,js,sqlite,git,github,figma&perline=6" />
 </p>
 
 ---
 
-## 📌 Current Projects
-- 🧾 **Point of Sale (POS) System** — JavaFX + SQLite  
-- 📱 **Cross-platform Apps** — Flutter  
-- 🌐 **Modern Web Interfaces** — Bootstrap  
+## Current Projects
+-  **Point of Sale (POS) System** — JavaFX + SQLite  
+-  **Cross-platform Apps** — Flutter  
+-  **Modern Web Interfaces** — Bootstrap  
 
 ---
 
-## 📊 GitHub Stats (Live)
+##  GitHub Stats (Live)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TechWithMax&show_icons=true&theme=transparent&hide_border=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechWithMax&theme=transparent&hide_border=true" height="165" />
@@ -46,7 +46,7 @@
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -58,18 +58,18 @@
 
 ---
 
-## ✨ Fun Fact
+##  Fun Fact
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=default" />
 </p>
 
 ---
 
-## 💡 Quote
+##  Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 </p>
 
 ---
 
-⭐ **If you like my work, consider starring my repositories!**
+ **If you like my work, consider starring my repositories!**
